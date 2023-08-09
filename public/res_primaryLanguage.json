@@ -1,0 +1,197 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Huzaifah, a dedicated Full Stack Developer with a solid educational background in AI, holding a BSCS degree from Comsats University Islamabad. My passion for technology led me to specialize in AI, and I further honed my skills through an enriching internship at PTCL's data science department. Currently, I thrive in a multinational firm where I leverage my expertise to craft innovative and efficient solutions across the entire development spectrum. With a robust foundation in both AI and full stack development, I bring a holistic approach to every project, striving to create impactful solutions that bridge cutting-edge technology with real-world applications.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Soma-Opex",
+        "startDate": "July 2023",
+        "description": "Data Management website in portugease. I made their design, dynamic reusable components and Api integration ",
+        "images": [
+          "images/portfolio/soma-opex/soma0.png",
+          "images/portfolio/soma-opex/soma1.png"
+        ],
+        "url": "https://soma-opex.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "AWT Complain Portal (admin)",
+        "startDate": "June 2023",
+        "description": "I develop Awt society admin portal as well as user app. Hence user can add complain and it admin can assign to their respected officer. User can also see progress, fixed or not fixed. User can also give feedback",
+        "images": [
+          "images/portfolio/awt/web1.png",
+          "images/portfolio/awt/web2.png"
+        ],
+        "url": "https://awtadmin.fineit.io/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "ExpressJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "AWT Complain Portal (user)",
+        "startDate": "June 2023",
+        "description": "I develop Awt society admin portal as well as user app. Hence user can add complain and it admin can assign to their respected officer. User can also see progress, fixed or not fixed. User can also give feedback",
+        "images": [
+          "images/portfolio/awt/app1.png",
+          "images/portfolio/awt/app2.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=io.fineit.awtcomplaints&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dawt+d18+complain+portal&pcampaignid=APPU_1_YSHSZI64Dp-jkdUP7Mm26Ao",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "ExpressJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "Paktrolley",
+        "startDate": "May 2023",
+        "description": "I designed their homepage using tailwindcss. Fixed some bugs",
+        "images": [
+          "images/portfolio/paktrolley/p1.png"
+          
+        ],
+        "url": "https://Paktrolley.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-tailwindcss-original-wordmark",
+            "name": "Tailwind"
+          }
+        ]
+      },
+      {
+        "title": "Creative Tech Solution",
+        "startDate": "May 2023",
+        "description": "I designed company's page and also add animation when the user clicks button. I also integrated email fucntionality",
+        "images": [
+          "images/portfolio/joomla/j1.png"
+          
+        ],
+        "url": "https://joomla4.creativetech-solutions.com/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Femiix",
+        "startDate": "May 2023",
+        "description": "I designed app which is based on ionic-angular framwork. Implemeted design, hardware connectivity ",
+        "images": [
+          "images/portfolio/femiix/f1.png"
+          
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.gynamics.app&hl=en&gl=US",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material UI"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Creative Tech Solutions",
+        "title": "Full Stack Developer",
+        "years": "2023",
+        "mainTech": [
+          "Angular/ React/ Node/ Express"
+        ],
+        "icons":[
+          "fa-angular"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "PTCL",
+        "title": "Data Science Intern",
+        "years": "2022",
+        "mainTech": [
+          "Python/ML/MySQL"
+        ],
+        "icons":[
+          "fa-python"
+        ],
+        "technologies": [
+          "Matplot",
+          "Scikit Learn",
+          "Deep Learning",
+          "Statistics",
+          "Data Visualize"
+        ]
+      }
+    ]
+  }
