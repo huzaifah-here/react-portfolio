@@ -192,6 +192,24 @@
           "Statistics",
           "Data Visualize"
         ]
+      },
+      {
+        "company": "3rd Prize Winning Project",
+        "title": "Smart Parking System (FYP)",
+        "years": "2022",
+        "mainTech": [
+          "PYQT5/AI/MongoDB"
+        ],
+        "icons":[
+          "fa-python"
+        ],
+        "technologies": [
+          "Colab",
+          "YOLOv5",
+          "Deep Learning",
+          "OpenCV",
+          "IOT"
+        ]
       }
     ]
   }
