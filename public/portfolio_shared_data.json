@@ -13,10 +13,15 @@
           "url": "https://www.instagram.com/huzaifah.fifa",
           "class": "fab fa-instagram"
         },
-          {
+        {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/huzaifah-here",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "mail",
+          "url": "mailto:huzaifahkhan00@gmail.com",
+          "class": "far fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
